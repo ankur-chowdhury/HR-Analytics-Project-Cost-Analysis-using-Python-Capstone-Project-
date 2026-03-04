@@ -1,4 +1,4 @@
-# 🐍 HR & Project Data Analysis – Python Capstone Project
+# 📊 HR & Project Data Analysis – Python Capstone Project
 
 ## 📌 Project Overview
 
